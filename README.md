@@ -11,7 +11,7 @@ These challenges are designed to progressively build the learners' skills, offer
 Check out [this video](https://generalassembly.wistia.com/medias/5g7olb1qv7) which walks you through some of the below steps!
 
 1. **Getting Started**:
-    - **Fork** and **Clone** [this repository](https://git.generalassemb.ly/modular-curriculum-all-courses/daily-coding-challenges) to your local machine.
+    - **Fork** and **Clone** [this repository](https://github.com/SEB-9-BH/daily-coding-challenges) to your local machine.
 
 2. **Solving Challenges**:
     - Solve each challenge in the `challenges.js` file. This is the only file you need to modify.
